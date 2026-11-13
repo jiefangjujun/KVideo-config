@@ -38,5 +38,13 @@
     "group": "normal",
     "enabled": true,
     "priority": 1
+  },
+  {
+    "id": "guangsu",
+    "name": "光速资源 · 备用",
+    "baseUrl": "https://api.guangsuapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
   }
 ]
