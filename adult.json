@@ -44,7 +44,8 @@
     "name": "光速资源 · 备用",
     "baseUrl": "https://api.guangsuapi.com/api.php/provide/vod",
     "group": "normal",
-    "enabled": true,
-    "priority": 10
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
   }
 ]
