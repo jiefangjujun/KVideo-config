@@ -16,14 +16,6 @@
     "priority": 1
   },
   {
-    "id": "jisu",
-    "name": "极速资源 · 覆盖广",
-    "baseUrl": "https://jszyapi.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
     "id": "hongniu",
     "name": "红牛资源 · 高响应",
     "baseUrl": "https://www.hongniuzy2.com/api.php/provide/vod",

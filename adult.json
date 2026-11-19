@@ -16,14 +16,6 @@
     "priority": 1
   },
   {
-    "id": "jisu",
-    "name": "极速资源 · 覆盖广",
-    "baseUrl": "https://jszyapi.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
     "id": "hongniu",
     "name": "红牛资源 · 高响应",
     "baseUrl": "https://www.hongniuzy2.com/api.php/provide/vod",
@@ -40,12 +32,21 @@
     "priority": 1
   },
   {
+    "id": "jisu",
+    "name": "极速资源 · 覆盖广",
+    "baseUrl": "https://jszyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
+  },
+  {
     "id": "guangsu",
     "name": "光速资源 · 备用",
     "baseUrl": "https://api.guangsuapi.com/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 101,
+    "priority": 102,
     "_comment": "超时/宕机"
   }
 ]
